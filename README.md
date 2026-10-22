@@ -7,6 +7,8 @@
 
 chrome://newtab（新しいタブ）
 
+https://news.web.nhk/n-data/conf/na/rss/cat0.xml（というよりRSS全般）
+
 他にもありましたらudeudeArm32X@proton.meまでお知らせください。
 
 ##使い方
