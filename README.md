@@ -7,8 +7,6 @@
 
 chrome://newtab（新しいタブ）
 
-last.fm(last.fm)
-
 music.youtube.com(YouTube Music,普通のYouTubeは表示可能)
 
 他にもありましたらudeudeArm32X@proton.meまでお知らせください。
