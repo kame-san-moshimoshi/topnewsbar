@@ -20,6 +20,7 @@ https://news.web.nhk/n-data/conf/na/rss/cat0.xml（というよりRSS全般）
 3 アドレスバーにchrome://extentionsと打つ
 
 4 「パッケージ化されていない拡張機能を読み込む」を押す
+
 5 解凍したファイルを読み込む
 
 ##テーマ
@@ -39,9 +40,9 @@ https://news.web.nhk/n-data/conf/na/rss/cat0.xml（というよりRSS全般）
 ・47都道府県
 
 ##ニュースの取得元
+
 NHKニュース
-BBC
-CNN
-（Yahooは取得不能）
+
+Yahoo
 
 ##「バーを表示」ボタンはドラッグで移動が可能です
