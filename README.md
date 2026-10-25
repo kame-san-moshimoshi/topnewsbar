@@ -5,9 +5,9 @@
 
 ※表示できないサイト※
 
-chrome://newtab（新しいタブ）
+chrome://...
 
-https://news.web.nhk/n-data/conf/na/rss/cat0.xml（というよりRSS全般）
+RSSのサイト
 
 他にもありましたらudeudeArm32X@proton.meまでお知らせください。
 
