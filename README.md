@@ -17,7 +17,7 @@ RSSのサイト
 
 2 解凍する
 
-3 アドレスバーにchrome://extentionsと打つ
+3 アドレスバーにchrome://extensionsと打つ
 
 4 「パッケージ化されていない拡張機能を読み込む」を押す
 
