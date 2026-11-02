@@ -9,6 +9,8 @@ chrome://...
 
 RSSのサイト
 
+abehiroshi.la.coocan.jp
+
 他にもありましたらudeudeArm32X@proton.meまでお知らせください。
 
 ##使い方
